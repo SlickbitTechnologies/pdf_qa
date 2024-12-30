@@ -1,0 +1,7 @@
+.idea/*/*
+.venv/*
+.env
+/.idea
+/.idea/inspectionProfiles
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/pdf_qa.iml
